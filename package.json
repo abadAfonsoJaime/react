@@ -1,0 +1,22 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "react's project dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified yet\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abadAfonsoJaime/react.git"
+  },
+  "author": "Jaime Abad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abadAfonsoJaime/react/issues"
+  },
+  "homepage": "https://github.com/abadAfonsoJaime/react#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
