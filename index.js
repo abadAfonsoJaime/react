@@ -11,3 +11,6 @@ class InchConverter {
 		return InchConverter.BASE * value;
 	}
 }
+
+// Exportamos la clase
+export default InchConverter;
